@@ -33,8 +33,3 @@ This project showcases my ability to harness Excel's power for data analysis, co
 
 
 
-
-Is this conversation helpful so far?
-
-
-
